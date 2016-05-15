@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_non_sym_looping", "Test_non_sym_looping.vcproj", "{19823D20-55A3-4AD3-837E-D66F72A4A97B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WB_MotionLib", "..\WB_MotionLib\WB_MotionLib.vcproj", "{A971F233-34FE-4B0F-A897-4FAD4BBA0A4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19823D20-55A3-4AD3-837E-D66F72A4A97B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{19823D20-55A3-4AD3-837E-D66F72A4A97B}.Debug|Win32.Build.0 = Debug|Win32
+		{19823D20-55A3-4AD3-837E-D66F72A4A97B}.Release|Win32.ActiveCfg = Release|Win32
+		{19823D20-55A3-4AD3-837E-D66F72A4A97B}.Release|Win32.Build.0 = Release|Win32
+		{A971F233-34FE-4B0F-A897-4FAD4BBA0A4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A971F233-34FE-4B0F-A897-4FAD4BBA0A4F}.Debug|Win32.Build.0 = Debug|Win32
+		{A971F233-34FE-4B0F-A897-4FAD4BBA0A4F}.Release|Win32.ActiveCfg = Release|Win32
+		{A971F233-34FE-4B0F-A897-4FAD4BBA0A4F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
